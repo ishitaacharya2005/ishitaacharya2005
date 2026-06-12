@@ -244,36 +244,6 @@ Worked on enterprise web applications, backend development, CRM systems, website
 
 ---
 
-## ◈ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishitaacharya2005&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=9B59B6&icon_color=6A0DAD&text_color=C9B8D8&rank_icon=github" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitaacharya2005&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=9B59B6&text_color=C9B8D8&langs_count=8" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaacharya2005&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=9B59B6&fire=6A0DAD&currStreakLabel=C9B8D8&sideLabels=C9B8D8&dates=8B7BA8" width="60%"/>
-</p>
-
----
-
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishitaacharya2005&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
-</p>
-
----
-
-## ◈ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishitaacharya2005&bg_color=0D0D1A&color=9B59B6&line=6A0DAD&point=C9B8D8&area=true&area_color=3B1A6E&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
-</p>
-
----
-
 ## ◈ Contribution Snake
 
 <p align="center">
