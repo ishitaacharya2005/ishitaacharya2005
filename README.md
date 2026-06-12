@@ -117,7 +117,7 @@ Architected and implemented the full backend from schema design through deployme
 ---
 
 <details>
-<summary><strong>◆ Peripheral Arterial Disease Detection — Clinical ML System</strong> &nbsp;|&nbsp; <code>Completed</code> &nbsp;|&nbsp; March – November 2025</summary>
+<summary><strong>◆ Peripheral Arterial Disease Detection - Clinical ML System</strong> &nbsp;|&nbsp; <code>Completed</code> &nbsp;|&nbsp; March – November 2025</summary>
 
 <br/>
 
@@ -186,7 +186,7 @@ Designed a modular backend to cleanly separate the speech recognition layer, com
 ## ◈ Experience
 
 ### Software Engineer Intern &nbsp;·&nbsp; Udupi Web Solutions
-**January 2026 – May 2026**
+**January 2026 - May 2026**
 
 Worked on enterprise web applications, backend development, CRM systems, website redesign projects, and business automation solutions using Laravel and MySQL.
 
